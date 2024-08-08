@@ -8,7 +8,28 @@
 
 ## Sreenshots :
 * Login Page :
+  
  ![Login Page](https://github.com/user-attachments/assets/60becbfd-0eea-4d93-a6ea-1a5192cf1b25)
+
+* Home Page :
+  
+![Home Page](https://github.com/user-attachments/assets/d524110b-d527-432e-be02-d5eab587b913)
+
+* Email List Page :
+  
+![Email List Page](https://github.com/user-attachments/assets/f742ed38-ef9f-4e41-8c82-14050338333e)
+
+* Email Reply Page :
+  
+![Email Reply Page](https://github.com/user-attachments/assets/2d6594a5-702f-479a-af56-e15033c1fcf1)
+
+* Email Delete Page :
+  
+![Delete Page](https://github.com/user-attachments/assets/0b4a8413-b713-4a6c-9ee7-208247e1b04e)
+
+* Light Mode Page :
+
+![Light Mode](https://github.com/user-attachments/assets/7183f5c7-db21-4f52-99b8-0c695d57ba24)
 
 
 ## The assignment is to use the designs and APIs provided and create a functional web app as per the following
