@@ -32,8 +32,7 @@
 ![Light Mode](https://github.com/user-attachments/assets/7183f5c7-db21-4f52-99b8-0c695d57ba24)
 
 
-## The assignment is to use the designs and APIs provided and create a functional web app as per the following
-## instructions -
+## The assignment is to use the designs and APIs provided and create a functional web app as per the following instructions -
 1. Implement the login page - Use the design provided
 2. Once logged in the user should be taken to the onebox screen. /google-login
 3. Implement fetching of data in onebox using api integration
