@@ -17,15 +17,15 @@
 
 * Email List Page :
   
-![Email List Page](https://github.com/user-attachments/assets/f742ed38-ef9f-4e41-8c82-14050338333e)
+![Email List Page](https://github.com/user-attachments/assets/8bcc6063-8cde-470f-b4ae-fac3c889dbb7)
 
 * Email Reply Page :
   
-![Email Reply Page](https://github.com/user-attachments/assets/2d6594a5-702f-479a-af56-e15033c1fcf1)
+![Email Reply Page](https://github.com/user-attachments/assets/c33c5ab7-c5f3-49df-87e2-bee78d34b643)
 
 * Email Delete Page :
   
-![Delete Page](https://github.com/user-attachments/assets/0b4a8413-b713-4a6c-9ee7-208247e1b04e)
+![Delete Page](https://github.com/user-attachments/assets/69782b45-fcd4-456c-a0c0-0111e6a80a1f)
 
 * Light Mode Page :
 
